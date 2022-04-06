@@ -3,7 +3,7 @@
 Projeto criado no curso de Reactjs da B7Web
 
 ## Tela principal do projeto
-
+<img src="https://user-images.githubusercontent.com/43479619/161870682-b6eb6716-b572-4de0-b8e5-0e3448661835.png" alt=""/>
 
 ## Orientações 
 
