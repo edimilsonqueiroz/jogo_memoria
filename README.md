@@ -5,6 +5,9 @@ Projeto criado no curso de Reactjs da B7Web
 ## Tela principal do projeto
 <img src="https://user-images.githubusercontent.com/43479619/161870682-b6eb6716-b572-4de0-b8e5-0e3448661835.png" alt=""/>
 
+## Tela do Jogo Iniciado
+<img src="https://user-images.githubusercontent.com/43479619/161871216-8fc51286-c9c0-4a1e-ae17-6535c24556b4.png" alt="" />
+
 ## Orientações 
 
 Para executar o projeto na sua máquina voçe precisa ter o node instalado
